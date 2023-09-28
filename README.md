@@ -1,4 +1,4 @@
-# group67RecipeApp
+## group67RecipeApp
 
 # Description of the problem domain:
 
