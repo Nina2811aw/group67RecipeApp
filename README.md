@@ -1,14 +1,12 @@
 # group67RecipeApp
 
 ## Description of the problem domain:
-This project revolves around food, nutrition and recipes.
-Everyone knows the problem, you stand in front of a refrigerator full of ingredients and do not know what to cook.
-We want to develop a solution to this problem: an easy way to get recipe ideas based on individual preferences, nutritional values and the ingredients you have at home.
+This project revolves around food, nutrition, and recipes. Our project plans to address the common kitchen dilemma of deciding what to cook with the available ingredients on hand. We plan to solve this issue by giving users an easy way to get recipes based on individual preferences, nutritional values, and the ingredients they have at home.
 
 ## Description of application:
 The application should provide the following functions:
-* search for recipe ideas based on specific ingredients given by the user 
-* search for recipe ideas based on specific diets that the user indicates
+* search and suggest recipe ideas based on specific ingredients given by the user 
+* search and suggest recipe ideas based on specific diets that the user indicates
 
 ## Link to the documentation for an API:
 https://spoonacular.com/food-api/docs
