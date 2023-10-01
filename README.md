@@ -5,8 +5,11 @@ This project revolves around food, nutrition, and recipes. Our project plans to 
 
 ## Description of application:
 The application should provide the following functions:
-* search and suggest recipe ideas based on specific ingredients given by the user 
-* search and suggest recipe ideas based on specific diets that the user indicates
+* Search and suggest recipe ideas based on specific ingredients given by the user 
+* Search and suggest recipe ideas based on specific diets that the user indicates
+* Suggest a recipe based on your specified macro suggestions (i.e. between 10g - 30g of protein)
+* Provide basic nutritional content about any recipe or ingredient
+* Optional: keep track of ingredient usage and create a shopping list
 
 ## Link to the documentation for an API:
 https://spoonacular.com/food-api/docs
