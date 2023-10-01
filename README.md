@@ -26,7 +26,7 @@ https://spoonacular.com/food-api/docs
 <img width="1062" alt="analyse-recipe-screenshot" src="https://github.com/Nina2811aw/group67RecipeApp/assets/77638087/37d57cf3-9770-4173-b7e1-a752931022b5">
 
 ## Example output of Java code:
-
+![](/Users/arielkhait/Downloads/Screenshot_2023-10-01_at_18.18.29.png)
 ## List of any technical problems blocking progress:
 Problem: IntelliJ did not recognize when I imported okhttp, and json. 
 Solution: I made my project a Maven project and added dependencies in the pom.xml file.
