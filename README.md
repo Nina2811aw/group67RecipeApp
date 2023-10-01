@@ -1,7 +1,8 @@
 # group67RecipeApp
 
 ## Description of the problem domain:
-This project revolves around food, nutrition, and recipes. Our project plans to address the common kitchen dilemma of deciding what to cook with the available ingredients on hand. We plan to solve this issue by giving users an easy way to get recipes based on individual preferences, nutritional values, and the ingredients they have at home.
+Cooking varied and healthy meals, dietary preferences as well as nutritional awareness have become an important part of our daily lifes. The sheer abundance of recipes on the web as well as taking several aspects such as diet, nutrients, intolerances and available ingredients into account, makes it difficult for many people to find sutitable recipes for everyday cooking.
+As a result, we decided to work on a project which revolves around food, nutrition, and recipes. Our project plans to address the common kitchen dilemma of deciding what to cook with the available ingredients on hand. We plan to solve this issue by giving users an easy way to get recipes based on individual preferences, nutritional values, and the ingredients they have at home.
 
 ## Description of application:
 The idea is to create a helpful recipe discovery and nutrition application.
